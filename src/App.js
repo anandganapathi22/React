@@ -26,14 +26,13 @@
 
 import React from 'react';
 import LoginScreen from './LoginScreen';
-import EmployeePage from './EmployeePage';
+
 
 
 function App() {
     return (
         <div className="App">
             <LoginScreen />
-            <EmployeePage />  
         </div>
       
     );
